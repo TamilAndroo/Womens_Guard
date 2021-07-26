@@ -31,7 +31,7 @@ And the dependency:
     implementation 'com.github.msayan:tutorial-view:v1.0.10'
 ```
 # App Screenshots
-![alt Screen1](https://tamilandroo.web.app/assets/App/WomensGuard/screen1.jpg)
+![Screenshot](https://tamilandroo.web.app/assets/App/WomensGuard/screen1.jpg)
 ![alt Screen2](https://tamilandroo.web.app/assets/App/WomensGuard/screen2.jpg)
 ![alt Screen3](https://tamilandroo.web.app/assets/App/WomensGuard/screen3.jpg)
 
