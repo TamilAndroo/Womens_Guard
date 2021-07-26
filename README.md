@@ -1,6 +1,6 @@
 # Women's Guard
 
-![alt Screen1](https://tamilandroo.web.app/assets/App/WomensGuard/icon.png)
+<img src="https://tamilandroo.web.app/assets/App/WomensGuard/icon.png" width="100" height="100" />
 
 This app is helpful for women's and girl's.
 
@@ -32,9 +32,8 @@ And the dependency:
 ```
 # App Screenshots
 <img src="https://tamilandroo.web.app/assets/App/WomensGuard/screen1.jpg" width="200" height="350" />
-![Screenshot](https://tamilandroo.web.app/assets/App/WomensGuard/screen1.jpg)
-![alt Screen2](https://tamilandroo.web.app/assets/App/WomensGuard/screen2.jpg)
-![alt Screen3](https://tamilandroo.web.app/assets/App/WomensGuard/screen3.jpg)
+<img src="https://tamilandroo.web.app/assets/App/WomensGuard/screen2.jpg" width="200" height="350" />
+<img src="https://tamilandroo.web.app/assets/App/WomensGuard/screen3.jpg" width="200" height="350" />
 
 [App link](https://tamilandroo.web.app/womens-guard)
         
