@@ -8,7 +8,7 @@ Women's and girl's feel safe and secure, always connect with your friends and fa
 
 I'm used some library's
 # 1.EasyWayLocation
-            This library get your current location without fail.
+   This library get your current location without fail.
 
 Gradle
 To always build from the latest commit with all updates. Add the JitPack repository:
@@ -26,7 +26,7 @@ And the dependency:
 ```
 
 # 2.Tutorial View
-              Is it used to illustrate how to use this application? For new installers.
+   Is it used to illustrate how to use this application? For new installers.
 ```
     implementation 'com.github.msayan:tutorial-view:v1.0.10'
 ```
